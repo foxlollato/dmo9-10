@@ -10,9 +10,6 @@ import android.widget.TextView;
 
 import br.edu.ifsp.arq.bancodedados.model.Hotel;
 
-/**
- * Created by dmo on 14/05/18.
- */
 
 public class HotelDetalheFragment extends Fragment {
     private TextView txtNome;
