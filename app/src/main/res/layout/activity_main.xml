@@ -12,6 +12,4 @@
         android:layout_height="match_parent"
         android:name="br.edu.ifsp.arq.bancodedados.HotelListFragment"
         android:id="@+id/fragmentLista"/>
-</
-    LinearLayout
-    >
+</LinearLayout>
